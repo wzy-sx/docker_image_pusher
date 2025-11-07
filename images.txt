@@ -1,1 +1,2 @@
-nginx
+# nginx
+openjdk:17-ea-jdk
