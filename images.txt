@@ -1,3 +1,4 @@
 # nginx
 openjdk:17-ea-jdk
 bladex/sentinel-dashboard
+provectuslabs/kafka-ui:latest
