@@ -2,3 +2,15 @@
 openjdk:17-ea-jdk
 bladex/sentinel-dashboard
 provectuslabs/kafka-ui:latest
+redis:6-alpine
+langgenius/dify-api:1.16.0-rc1
+langgenius/dify-agent-backend:1.16.0-rc1
+ubuntu/squid:latest
+postgres:15-alpine
+semitechnologies/weaviate:1.27.0
+nginx:latest
+busybox:latest
+langgenius/dify-plugin-daemon:0.6.3-local
+langgenius/dify-web:1.16.0-rc1
+langgenius/dify-sandbox:0.2.15
+langgenius/dify-agent-local-sandbox:1.16.0-rc1
