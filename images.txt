@@ -14,3 +14,4 @@ langgenius/dify-plugin-daemon:0.6.3-local
 langgenius/dify-web:1.16.0-rc1
 langgenius/dify-sandbox:0.2.15
 langgenius/dify-agent-local-sandbox:1.16.0-rc1
+python:3.9.23
