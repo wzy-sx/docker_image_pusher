@@ -15,4 +15,6 @@
 # langgenius/dify-sandbox:0.2.15
 # langgenius/dify-agent-local-sandbox:1.16.0-rc1
 # python:3.11
-eclipse-temurin:25-jdk
+#eclipse-temurin:25-jdk
+redis:7.4-alpine
+InfluxDB:3.10
