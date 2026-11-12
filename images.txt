@@ -17,4 +17,4 @@
 # python:3.11
 #eclipse-temurin:25-jdk
 redis:7.4-alpine
-InfluxDB:3.10
+InfluxDB:3-core
