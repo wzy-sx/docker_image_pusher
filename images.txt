@@ -16,5 +16,5 @@
 # langgenius/dify-agent-local-sandbox:1.16.0-rc1
 # python:3.11
 # eclipse-temurin:25-jdk
-# redis:7.4-alpine
-influxdb:3-core
+redis:7.4-alpine
+# influxdb:3-core
