@@ -18,4 +18,4 @@
 # eclipse-temurin:25-jdk
 # redis:7.4-alpine
 # influxdb:3-core
-grafana/grafana:latest
+grafana/grafana:11.6.16
